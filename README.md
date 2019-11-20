@@ -4,7 +4,7 @@ This is the Matlab implementation of [Flexible Multi-View Representation Learnin
 ## Paper
 The main contributions include:
 * We propose to construct a latent representation by encouraging it to be similar to different views in a weighted way, which implicitly enforces it to encode complementary information from multiple views. 
-* We introduce the kernel dependence measure: HilbertSchmidt Independence Criterion (HSIC), to capture high-order, non-linear relationships among different views, which benefits recovering underlying cluster structure of data.
+* We introduce the kernel dependence measure: Hilbert Schmidt Independence Criterion (HSIC), to capture high-order, non-linear relationships among different views, which benefits recovering underlying cluster structure of data.
 
 ## Data
 In this example, we load Yale dataset with 165 grayscale face images of 15 subjects.
